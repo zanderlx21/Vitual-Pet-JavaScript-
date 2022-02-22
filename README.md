@@ -1,5 +1,5 @@
-# deliverable_two
-Virtual Pet (in JavaScript)
+# Virtual Pet
+Virtual Pet (JavaScript)
 
 This was part 2 of my entry project before being admitted into Grand Circus Bootcamp.
 
