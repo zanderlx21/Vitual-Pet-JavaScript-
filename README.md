@@ -1,5 +1,5 @@
 # deliverable_two
-Grand Circus Unit 1 PreWork Lab 1 Javascript virtual pet project
+Virtual Pet (in JavaScript)
 
 This was part 2 of my entry project before being admitted into Grand Circus Bootcamp.
 
